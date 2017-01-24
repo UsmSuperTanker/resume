@@ -1,2 +1,1 @@
-"LeeZhanFeng_Resume"
 "# resume"
